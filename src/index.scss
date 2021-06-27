@@ -1,0 +1,24 @@
+.container{
+    text-align:center;
+    margin-top:40px;
+}
+
+.btnArea{
+    width:300px;
+    margin:60px auto;
+    display:flex;
+    justify-content: space-between;
+}
+
+button{
+    width:120px;
+    height:30px;
+}
+p{
+    font-size:24px;
+}
+
+.caution{
+    font-size:32px;
+    color:red;
+}
